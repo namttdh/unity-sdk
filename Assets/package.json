@@ -1,0 +1,9 @@
+{
+    "name": "game.elpis.deltadna",
+    "displayName": "DeltaDNA",
+    "version": "0.0.1",
+    "unity": "2021.2",
+    "description": "The deltaDNA SDK for Unity allows your to send information on player actions from your game to deltaDNA for analysis, reporting, CRM and gameplay personalisation.",
+    "license": "MIT",
+    "dependencies": {}
+}
